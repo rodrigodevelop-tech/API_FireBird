@@ -30,3 +30,4 @@ $ npm run dev
 
 # O servidor iniciará na porta:3031
 ```
+<img alt="GitHub" src="https://img.shields.io/github/license/rodrigodevelop-tech/API_FireBird">
