@@ -6,7 +6,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina o driver odb
 
 <a href="https://firebirdsql.org/en/odbc-driver/">Driver odbc Firebird</a>
 
-### 🎲 Rodando a API na sua máquina
+### Primeiros passos
 
 ```bash
 # Clone este repositório
@@ -16,10 +16,11 @@ $ git clone <https://github.com/rodrigodevelop-tech/API_FireBird/>
 $ cd API_Firebird
 
 ```
-### 🎲 Configurando as variáveis do banco
+### :pinched_fingers: Configurando as variáveis do banco
  Crie um arquivo .env ou utilize o arquivo .env.example "lembrando que você precisa renomear ele para .env" 
  Com o arquivo .env criado preencha as informações de conexão do banco.
 
+🎲 Rodando a projeto em sua máquina
 ```bash
 # Instale as dependências
 $ npm install
